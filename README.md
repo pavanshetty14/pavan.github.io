@@ -34,7 +34,7 @@ Google Fonts ✍️: For modern typography.
 🚀 Installation
 Follow these steps to set up the Responsive Portfolio locally:
 Clone the Repository:
-git clone https://github.com/your-username/pavan-responsive-portfolio.git
+git clone (https://pavanshetty14.github.io/pavan.github.io/)
 Navigate to the Project Directory:
 cd responsive-portfolio
 Open the Project:
